@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 replicaCount: 1
 image:
-  tag: 'kyma-project/console:PR-504'
+  tag: 'PR-504'
   pullPolicy: IfNotPresent
 service:
   name: nginx
